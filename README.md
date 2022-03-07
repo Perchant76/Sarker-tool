@@ -4,7 +4,7 @@
 DDoSer pinger port scanner all in one... Good luck haxors ;)
 How to install:
 Linux:
-`git clone https://www.github.com/perchant67/Anonymous-chat-app`
+`git clone https://www.github.com/Perchant76/Anonymous-chat-app`
 cd Anonymous-chat-app
 `python3 main.py`
 Windows:
